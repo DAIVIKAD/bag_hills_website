@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Bag Hills favicon">
+  <rect width="64" height="64" rx="14" fill="#0b0f0c"/>
+  <path d="M8 45h48L42 24l-8 12-6-9-20 18Z" fill="#c7a15b"/>
+  <path d="M14 45h36" stroke="#efe6d2" stroke-width="3" stroke-linecap="round"/>
+  <text x="32" y="22" text-anchor="middle" fill="#efe6d2" font-family="Georgia, serif" font-size="14" font-weight="700">BH</text>
+</svg>
